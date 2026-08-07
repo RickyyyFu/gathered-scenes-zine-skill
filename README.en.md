@@ -140,7 +140,7 @@ Source photographs are used only as references for the requested generation. The
 
 The same username, `Zeejay0`, is used on Douyin and other content platforms. Search for it on the platform you use to find the author and future work.
 
-If you publish work made with these skills, a quiet credit at the end of the caption is appreciated: `Visual Skill by @Zeejay0`.
+After the first two generations by each skill in a conversation, a quiet note suggests: `If shared publicly, credit is appreciated: Visual Skill by @Zeejay0`. It is omitted from the third generation onward.
 
 ## License
 
