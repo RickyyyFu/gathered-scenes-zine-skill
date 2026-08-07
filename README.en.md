@@ -75,7 +75,41 @@ Do not preserve the photograph itself; express “approaching and missing.”
 
 ## Scene archive
 
-Representative work will be presented as **source photograph → field note → finished poster**, documenting what was retained, removed, and transformed. The first collection is being prepared in [`examples/`](examples/).
+Representative work is presented as **source photograph → field note → finished poster**, documenting what was retained, removed, and transformed.
+
+### Gathered Scenes 01 · Where Stone Meets Sky
+
+| Source photograph | Finished work |
+| :---: | :---: |
+| <img src="examples/real-scene-collage/01-where-stone-meets-sky/source.jpg" alt="City and church source photograph" width="440"> | <img src="examples/real-scene-collage/01-where-stone-meets-sky/result.jpg" alt="Where Stone Meets Sky finished work" width="440"> |
+
+The church tower remains a truthful anchor while the dense city becomes a blue printed field across photographic, drawn, and torn-paper boundaries. [Read the field note](examples/real-scene-collage/01-where-stone-meets-sky/)
+
+### Gathered Scenes 02 · Winter Crossing
+
+| Source photograph | Finished work |
+| :---: | :---: |
+| <img src="examples/real-scene-collage/02-winter-crossing/source.jpg" alt="Winter bridge source photograph" width="440"> | <img src="examples/real-scene-collage/02-winter-crossing/result.jpg" alt="Winter Crossing finished work" width="440"> |
+
+The line of people and its reflection stay photographic as the snowy forest expands into a quiet blue-gray paper field. [Read the field note](examples/real-scene-collage/02-winter-crossing/)
+
+### Scene Distillation 01 · Time Waves Back
+
+| Source photograph | Finished work |
+| :---: | :---: |
+| <img src="examples/image-distillation/01-time-waves-back/source.jpg" alt="Waving figure and statue source photograph" width="440"> | <img src="examples/image-distillation/01-time-waves-back/result.jpg" alt="Time Waves Back finished work" width="440"> |
+
+The photograph disappears, leaving only the gesture, the distant figure, and a yellow path that turns their unfinished exchange into a metaphor for time. [Read the field note](examples/image-distillation/01-time-waves-back/)
+
+### Scene Distillation 02 · Snow Falls Lightly
+
+| Source photograph | Finished work |
+| :---: | :---: |
+| <img src="examples/image-distillation/02-snow-falls-lightly/source.jpg" alt="Child in snow source photograph" width="440"> | <img src="examples/image-distillation/02-snow-falls-lightly/result.jpg" alt="Snow Falls Lightly finished work" width="440"> |
+
+The seated posture and winter colors become loose paper fragments; open paper preserves the lightness of snow while a small red form creates a distant reply. [Read the field note](examples/image-distillation/02-snow-falls-lightly/)
+
+[Browse the complete scene archive](examples/)
 
 ## Get started
 

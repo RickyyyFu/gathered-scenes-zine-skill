@@ -94,7 +94,39 @@
 
 这里将按“原始照片 → 观察记录 → 最终作品”保存代表案例，而不是只陈列一面结果图墙。每份档案会说明作品保留了什么、舍弃了什么，以及色彩和构图如何从现场生长出来。
 
-第一辑代表作品正在整理。后续案例会收录在 [`examples/`](examples/) 中。
+### 实景拼贴 01 · 石与天空相遇
+
+| 原始照片 | 最终作品 |
+| :---: | :---: |
+| <img src="examples/real-scene-collage/01-where-stone-meets-sky/source.jpg" alt="城市与教堂原始照片" width="440"> | <img src="examples/real-scene-collage/01-where-stone-meets-sky/result.jpg" alt="Where Stone Meets Sky 实景拼贴作品" width="440"> |
+
+保留教堂塔楼作为真实锚点，将城市密度压缩为蓝色印刷场，让石质轮廓穿过摄影、线描与撕纸边界。[查看观察记录](examples/real-scene-collage/01-where-stone-meets-sky/)
+
+### 实景拼贴 02 · 冬日渡桥
+
+| 原始照片 | 最终作品 |
+| :---: | :---: |
+| <img src="examples/real-scene-collage/02-winter-crossing/source.jpg" alt="冬日湖桥原始照片" width="440"> | <img src="examples/real-scene-collage/02-winter-crossing/result.jpg" alt="Winter Crossing 实景拼贴作品" width="440"> |
+
+保留桥上人群与水面倒影，将雪林向外转译为安静的蓝灰纸上场景，让横向行进成为整张作品的节奏。[查看观察记录](examples/real-scene-collage/02-winter-crossing/)
+
+### 影像蒸馏 01 · 时间挥手回应
+
+| 原始照片 | 最终作品 |
+| :---: | :---: |
+| <img src="examples/image-distillation/01-time-waves-back/source.jpg" alt="挥手的人与石像原始照片" width="440"> | <img src="examples/image-distillation/01-time-waves-back/result.jpg" alt="Time Waves Back 影像蒸馏作品" width="440"> |
+
+舍弃照片本身，只保留挥手的动作、远处石像与两者之间尚未抵达的回应；一条黄色手势轨迹成为时间的视觉隐喻。[查看观察记录](examples/image-distillation/01-time-waves-back/)
+
+### 影像蒸馏 02 · 雪落得很轻
+
+| 原始照片 | 最终作品 |
+| :---: | :---: |
+| <img src="examples/image-distillation/02-snow-falls-lightly/source.jpg" alt="雪中孩子原始照片" width="440"> | <img src="examples/image-distillation/02-snow-falls-lightly/result.jpg" alt="雪落得很轻影像蒸馏作品" width="440"> |
+
+从雪地中的坐姿与冬衣色彩提炼出松散纸片人物，以大面积纸白保留雪的轻盈，并用一枚暖红色小块建立遥远的视觉回应。[查看观察记录](examples/image-distillation/02-snow-falls-lightly/)
+
+[浏览完整作品档案](examples/)
 
 ## 开始使用
 
