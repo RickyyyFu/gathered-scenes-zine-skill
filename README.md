@@ -1,6 +1,6 @@
 <div align="center">
 
-# 拾景纸刊
+# 拾景zine
 
 ### GATHERED SCENES ZINE
 
