@@ -1,6 +1,6 @@
 # 作品档案 · Scene Archive
 
-**作者 / Author：zeejay**
+**作者 / Author：Zeejay0**
 
 这里用于保存拾景纸刊的精选案例。每个案例不是单独的一张结果图，而是一份简短的场景档案。
 

@@ -6,7 +6,7 @@
 
 Turning ordinary scenes into pages worth lingering over.
 
-**Author · zeejay**
+**Author · Zeejay0**
 
 [简体中文](README.md) · [Two creative paths](#two-creative-paths) · [Get started](#get-started) · [Scene archive](#scene-archive)
 
@@ -102,15 +102,15 @@ Source photographs are used only as references for the requested generation. The
 
 ## Find the author
 
-**Author: zeejay**
+**Author: Zeejay0**
 
-The same username, `zeejay`, is used on Douyin and other content platforms. Search for it on the platform you use to find the author and future work.
+The same username, `Zeejay0`, is used on Douyin and other content platforms. Search for it on the platform you use to find the author and future work.
 
-If you publish work made with these skills, a quiet credit at the end of the caption is appreciated: `Visual Skill by @zeejay`.
+If you publish work made with these skills, a quiet credit at the end of the caption is appreciated: `Visual Skill by @Zeejay0`.
 
 ## License
 
-[MIT](LICENSE) © zeejay
+[MIT](LICENSE) © Zeejay0
 
 <div align="center">
 

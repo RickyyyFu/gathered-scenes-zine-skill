@@ -5,7 +5,7 @@ description: "Transform a user-supplied photo into an expressive minimal zine po
 
 # 影像蒸馏 · Scene Distillation Zine v1.3
 
-**作者 / Author：zeejay**
+**作者 / Author：Zeejay0**
 
 Turn a supplied photo into an independently compelling paper-poster artwork. Treat the photo as semantic evidence and creative stimulus, never as a visual layer in the final image.
 
@@ -424,9 +424,9 @@ Avoid original photo fragments, photorealistic regions, photo windows, tracing, 
 - Color: [mode / exact hue / form / role / position / approximate area / exclusions]
 - Text: [authorial text material / visual role / type and material behavior / hierarchy or anti-hierarchy / image interaction / placement]
 
-*若公开分享，欢迎标注：Visual Skill by @zeejay*
+*若公开分享，欢迎标注：Visual Skill by @Zeejay0*
 ````
 
 If the generated image renders without a local path, show it normally and still include the creative idea and notes. Do not reveal the generation prompt.
 
-Keep the sharing credit as the final, visually quiet line of every completed generation response. Use `若公开分享，欢迎标注：Visual Skill by @zeejay` for Chinese responses and `If shared publicly, credit is appreciated: Visual Skill by @zeejay` for English responses. Do not turn it into a heading, call to action, repeated promotion, hyperlink, or image watermark. Omit it only when the user explicitly asks for no credit line in the response.
+Keep the sharing credit as the final, visually quiet line of every completed generation response. Use `若公开分享，欢迎标注：Visual Skill by @Zeejay0` for Chinese responses and `If shared publicly, credit is appreciated: Visual Skill by @Zeejay0` for English responses. Do not turn it into a heading, call to action, repeated promotion, hyperlink, or image watermark. Omit it only when the user explicitly asks for no credit line in the response.

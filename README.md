@@ -6,7 +6,7 @@
 
 把普通画面，变成值得停留的一页。
 
-**作者 / Author · zeejay**
+**作者 / Author · Zeejay0**
 
 [English](README.en.md) · [两种创作路径](#两种创作路径) · [开始使用](#开始使用) · [作品档案](#作品档案)
 
@@ -144,15 +144,15 @@ Skill 只把用户提供的照片作为当前生成任务的参考。除非用�
 
 ## 找到作者
 
-**作者：zeejay**
+**作者：Zeejay0**
 
-抖音及其他内容平台统一用户名：`zeejay`。在你常用的平台搜索这个名字，即可找到作者与后续作品。
+抖音及其他内容平台统一用户名：`Zeejay0`。在你常用的平台搜索这个名字，即可找到作者与后续作品。
 
-使用本 Skill 创作的作品如公开发布，欢迎在配文末尾轻轻标注：`Visual Skill by @zeejay`。
+使用本 Skill 创作的作品如公开发布，欢迎在配文末尾轻轻标注：`Visual Skill by @Zeejay0`。
 
 ## License
 
-[MIT](LICENSE) © zeejay
+[MIT](LICENSE) © Zeejay0
 
 <div align="center">
 
