@@ -148,6 +148,8 @@ Skill 只把用户提供的照片作为当前生成任务的参考。除非用�
 
 抖音及其他内容平台统一用户名：`zeejay`。在你常用的平台搜索这个名字，即可找到作者与后续作品。
 
+使用本 Skill 创作的作品如公开发布，欢迎在配文末尾轻轻标注：`Visual Skill by @zeejay`。
+
 ## License
 
 [MIT](LICENSE) © zeejay

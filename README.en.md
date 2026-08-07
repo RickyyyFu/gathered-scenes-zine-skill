@@ -106,6 +106,8 @@ Source photographs are used only as references for the requested generation. The
 
 The same username, `zeejay`, is used on Douyin and other content platforms. Search for it on the platform you use to find the author and future work.
 
+If you publish work made with these skills, a quiet credit at the end of the caption is appreciated: `Visual Skill by @zeejay`.
+
 ## License
 
 [MIT](LICENSE) © zeejay

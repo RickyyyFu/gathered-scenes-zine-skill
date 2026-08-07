@@ -372,9 +372,13 @@ By default, return:
 **创作思路**
 
 [One short Chinese paragraph explaining the source-derived composition, enlarged illustration field, and structural role of the added hue.]
+
+*若公开分享，欢迎标注：Visual Skill by @zeejay*
 ```
 
 Keep the creative rationale to one compact paragraph, usually 1–3 sentences. Describe the central visual decision and emotional intention in plain language; do not reveal the full prompt, restate every parameter, or turn it into a technical checklist.
+
+Keep the sharing credit as the final, visually quiet line of every completed generation response. Use `若公开分享，欢迎标注：Visual Skill by @zeejay` for Chinese responses and `If shared publicly, credit is appreciated: Visual Skill by @zeejay` for English responses. Do not turn it into a heading, call to action, repeated promotion, hyperlink, or image watermark. Omit it only when the user explicitly asks for no credit line in the response.
 
 If the user explicitly requests the prompt or detailed explanation, add only the requested items. Composition notes may use:
 
@@ -422,4 +426,5 @@ Before returning, verify:
 - Is the text placed in genuine breathing room without becoming a caption, headline, or visual distraction?
 - Does the poster remain tactile, flat, quiet, abstract, source-derived, and non-commercial?
 - Did the response include the image and one genuinely brief creative rationale?
+- Did the response end with the quiet sharing-credit line outside the generated image?
 - Was the full prompt omitted unless the user explicitly requested it?
