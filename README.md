@@ -6,6 +6,8 @@
 
 把普通画面，变成值得停留的一页。
 
+**作者 / Author · zeejay**
+
 [English](README.en.md) · [两种创作路径](#两种创作路径) · [开始使用](#开始使用) · [作品档案](#作品档案)
 
 </div>
@@ -42,7 +44,7 @@
 
 同一张照片，可以被保存，也可以被重新想象。本仓库收录两个互补的 Skill。
 
-| | 保留现场 · Gathered Scenes | 提炼余韵 · Scene Distillation |
+| | 实景拼贴 · Gathered Scenes | 影像蒸馏 · Scene Distillation |
 | --- | --- | --- |
 | **适合** | 想保留原照片与现场身份 | 想获得独立成立的原创插画作品 |
 | **照片的角色** | 成为最终海报中的真实视觉锚点 | 只作为语义与情绪来源，不进入成品 |
@@ -50,7 +52,7 @@
 | **结果** | 真实而克制的纸感拼贴海报 | 表达优先的极简编辑插画 |
 | **调用名称** | `$scenes-gathered-zine-v1-3` | `$scene-distillation-zine-v1-3` |
 
-### 01 · 保留现场
+### 01 · 实景拼贴
 
 `scenes-gathered-zine-v1-3` 保留照片中不可替代的现场关系，以真实摄影作为锚点，让源自原图的抽象形状、单一高纯度色彩与可见的手撕纤维边缘向纸面延伸。
 
@@ -63,7 +65,7 @@
 
 [阅读完整 Skill](skills/scenes-gathered-zine-v1-3/SKILL.md)
 
-### 02 · 提炼余韵
+### 02 · 影像蒸馏
 
 `scene-distillation-zine-v1-3` 不在成品中保留原始照片。它从照片中提取语义核心、情绪张力和视觉隐喻，再用纸张、插画、色彩与自由文字创作一件新的作品。
 
@@ -112,7 +114,7 @@ cp -R gathered-scenes-zine-skill/skills/scene-distillation-zine-v1-3 ~/.codex/sk
 ### 使用
 
 1. 上传一张照片。
-2. 选择“保留现场”或“提炼余韵”。
+2. 选择“实景拼贴”或“影像蒸馏”。
 3. 调用对应的 Skill；也可以补充希望保留的关系、文字语言或情绪方向。
 
 除图片外，两个 Skill 都会返回简短的创作说明；具体输出规则请以各自的 `SKILL.md` 为准。
@@ -140,9 +142,15 @@ gathered-scenes-zine-skill/
 
 Skill 只把用户提供的照片作为当前生成任务的参考。除非用户明确要求，不应浏览、分享、另行上传或保存原始照片。有关具体处理规则，请阅读对应的 Skill 文档。
 
+## 找到作者
+
+**作者：zeejay**
+
+抖音及其他内容平台统一用户名：`zeejay`。在你常用的平台搜索这个名字，即可找到作者与后续作品。
+
 ## License
 
-[MIT](LICENSE) © Zeejay0
+[MIT](LICENSE) © zeejay
 
 <div align="center">
 

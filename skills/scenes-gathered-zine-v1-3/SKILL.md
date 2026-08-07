@@ -3,7 +3,9 @@ name: scenes-gathered-zine-v1-3
 description: "Transform a user-supplied photo into a vertical 3:5 Gathered Scenes Zine poster that anchors truthful photography inside a spacious source-derived abstract illustration field, aggressively compresses dense foliage and other micro-detail into a few large quiet forms, integrates one high-chroma hue as compositional structure, and preserves a visibly hand-torn fibrous photo-to-paper edge. Use when the user wants a tactile minimal paper collage with simplified illustration, active negative space, restrained English-default, Chinese, or bilingual micro-text, and an unmistakable but quiet torn-paper boundary."
 ---
 
-# 拾景纸刊 · Gathered Scenes Zine v1.3
+# 实景拼贴 · Gathered Scenes Zine v1.3
+
+**作者 / Author：zeejay**
 
 Create a calm, tactile poster from a supplied photo. Preserve the signature **真景为锚、插画成场、色彩成结构、撕纸成界、纸面会呼吸**:
 

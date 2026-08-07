@@ -6,6 +6,8 @@
 
 Turning ordinary scenes into pages worth lingering over.
 
+**Author · zeejay**
+
 [简体中文](README.md) · [Two creative paths](#two-creative-paths) · [Get started](#get-started) · [Scene archive](#scene-archive)
 
 </div>
@@ -32,14 +34,14 @@ The visual system follows five principles: truthful photography as an anchor, il
 
 ## Two creative paths
 
-| | Preserve the scene | Distill the resonance |
+| | 实景拼贴 · Gathered Scenes | 影像蒸馏 · Scene Distillation |
 | --- | --- | --- |
 | **Best for** | Keeping the source photograph and its identity | Creating a fully independent illustrated artwork |
 | **Role of the photo** | A truthful visual anchor in the final poster | Semantic and emotional evidence only; no source pixels remain |
 | **Method** | Photography, source-derived abstraction, structural color, and torn paper | Proposition, tension, visual metaphor, paper, color, and authorial type |
 | **Skill** | `$scenes-gathered-zine-v1-3` | `$scene-distillation-zine-v1-3` |
 
-### 01 · Preserve the scene
+### 01 · 实景拼贴 / Gathered Scenes
 
 `scenes-gathered-zine-v1-3` keeps the photograph's irreplaceable spatial relationships. It extends the scene through simplified abstract forms, one high-chroma structural hue, active negative space, and a visible hand-torn fibrous edge.
 
@@ -50,7 +52,7 @@ Preserve the relationship between the figure and the shoreline.
 
 [Read the full skill](skills/scenes-gathered-zine-v1-3/SKILL.md)
 
-### 02 · Distill the resonance
+### 02 · 影像蒸馏 / Scene Distillation
 
 `scene-distillation-zine-v1-3` does not retain the original photograph in the finished image. It extracts a semantic nucleus, emotional tension, and visual metaphor, then authors a new paper-based editorial artwork.
 
@@ -98,9 +100,15 @@ skills/       installable Codex skills and interface metadata
 
 Source photographs are used only as references for the requested generation. They should not be browsed, shared, uploaded elsewhere, or saved unless the user explicitly asks.
 
+## Find the author
+
+**Author: zeejay**
+
+The same username, `zeejay`, is used on Douyin and other content platforms. Search for it on the platform you use to find the author and future work.
+
 ## License
 
-[MIT](LICENSE) © Zeejay0
+[MIT](LICENSE) © zeejay
 
 <div align="center">
 
