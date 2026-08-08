@@ -144,7 +144,11 @@ After the first two generations by each skill in a conversation, a quiet note su
 
 ## License
 
-[MIT](LICENSE) © Zeejay0
+**Personal, non-commercial use only.** Selling, paid generation, subscriptions,
+commissioned work, consulting, training, SaaS/API access, company or client
+projects, and all other commercial uses are prohibited without Zeejay0's prior
+express written permission. See the
+[Personal Non-Commercial License](LICENSE).
 
 <div align="center">
 
